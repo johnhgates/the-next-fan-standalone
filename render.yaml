@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: the-next-fan
+    runtime: static
+    staticPublishPath: ./dist
+    pullRequestPreviewsEnabled: true
