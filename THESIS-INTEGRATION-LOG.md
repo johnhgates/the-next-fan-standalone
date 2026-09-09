@@ -24,3 +24,15 @@ For each subsequent integration, record:
 - Sources/citations added
 - Material not integrated
 - Reason it was not integrated
+
+## 2026-09-09 — Broader digital sports media research direction
+
+- Assignment / source: John’s supplied research direction update.
+- Important material extracted: New research question, broader media ecosystem, sustained organizational relationships and separate outcome measures.
+- Website sections updated: Home, Fan Journey, Framework, Strategy Builder, Content/Film scope, About, shared research/application panels, thesis question, source themes and metadata. All eleven routes audited.
+- New features or visualizations: No new layout or feature. Existing strategy output now includes organizational applications across channels.
+- Research claims added: None. Framework and recommendations remain provisional.
+- Sources/citations added: None. Existing evidence collections and all image credits preserved.
+- Material not integrated: Exhaustive platform sections, causal claims and new outcome statistics.
+- Reason: This is a scope update, not new empirical evidence or a redesign. Prior state-of-field submission was not yet integrated into this repository; it is not represented as completed research.
+- Permanent workflow: Updated AGENTS.md and README.md to apply the new question to future assignments.

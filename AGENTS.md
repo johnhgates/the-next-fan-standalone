@@ -9,7 +9,7 @@ GITHUB:
 https://github.com/johnhgates/the-next-fan-standalone
 
 RESEARCH QUESTION:
-How does TikTok’s personalized short-form content environment influence sports fan discovery, engagement, participation and brand loyalty?
+How does digital sports media influence the development of new sports fans from initial discovery to engagement, participation and long-term loyalty?
 
 From this point forward, treat THE NEXT FAN as a continuously evolving research-driven sports marketing product.
 
@@ -59,7 +59,7 @@ Then identify:
 5. Strong quotations when appropriate
 6. Marketing implications
 7. Fan behavior implications
-8. TikTok or short-form content implications
+8. Digital sports media implications, including platform-specific findings
 9. Evidence relating to discovery
 10. Evidence relating to engagement
 11. Evidence relating to participation
@@ -105,8 +105,6 @@ THE NEXT FAN FRAMEWORK
 
 The central conceptual pathway is:
 
-PERSONALIZATION
-→
 DISCOVERY
 →
 ENGAGEMENT
@@ -540,3 +538,13 @@ After saving them, confirm that going forward I can upload an assignment and sim
 “Integrate this into THE NEXT FAN.”
 
 When I use that command, follow this entire system automatically.
+
+RESEARCH DIRECTION UPDATE — 2026-09-09
+
+The thesis examines fan development across digital sports media. TikTok is one relevant platform, not the central subject. Retain useful TikTok evidence while limiting claims to the platforms and populations actually studied. Do not generalize platform-specific results to the full ecosystem without support.
+
+The context includes social platforms, streaming, athlete and creator content, online communities, storytelling and team-owned channels as relevant evidence arrives. Personalization is one mechanism within this environment, not a mandatory stage.
+
+Classify future material by Discovery, Engagement, Participation, Identity, Loyalty and Organizational Implications. Preserve the nonlinear framework. Distinguish WHAT THE RESEARCH SAYS from WHAT SPORTS ORGANIZATIONS CAN DO, and retain JG’S TAKE separately as personal/editorial interpretation. Recommendations must not appear as findings.
+
+Investigate how organizations might develop initial attention into sustained relationships. Continued engagement, identification, community participation, viewership, attendance, purchases and advocacy are distinct possible outcomes, not guaranteed effects of digital content or required proofs of fandom. Do not introduce placeholders or invent evidence when updating the direction. Preserve the existing site, repository, Render deployment, assets and design.

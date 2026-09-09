@@ -1,6 +1,6 @@
 // Editable content collection. Evidence entries remain empty until verified thesis materials are supplied.
 window.NF={
-question:"How does TikTok's personalized short-form content environment influence sports fan discovery, engagement, participation and brand loyalty?",
+question:"How does digital sports media influence the development of new sports fans from initial discovery to engagement, participation and long-term loyalty?",
 stages:[
 {name:'Discovery',verb:'Wait. Who is that?',behaviors:['First exposure to an athlete','Discovering a team, league or sport','Finding a rivalry, storyline or sports culture'],description:'The first encounter. A player, a moment or a story gives someone a reason to look closer.',metric:'New viewers, profile visits and discovery sources',risk:'Exposure alone does not demonstrate interest.',take:'You came for one dunk. Forty-five minutes later you’re learning the cap situation.'},
 {name:'Engagement',verb:'Okay, one more video.',behaviors:['Watching and rewatching','Liking, commenting and sharing','Following, searching and watching related content'],description:'Attention becomes an action. The question is whether that action is a passing reaction or the start of a relationship.',metric:'Watch time, repeat viewers, relevant searches and follows',risk:'A like can mean many things. It cannot establish loyalty.',take:'A like is not a blood oath. Your social manager might want it to be. It isn’t.'},
@@ -25,7 +25,7 @@ formats:[
 ],
 sources:[],cases:[],findings:[],thesis:{abstract:'',literature:'',methodology:'',findings:'',discussion:'',limitations:'',future:'',download:''},
 images:[],
-themes:['TikTok','Algorithms and Personalization','Short-Form Video','Sports Fandom','Fan Discovery','Fan Engagement','Participatory Culture','Fan Identity','Parasocial Relationships','Athlete Branding','Brand Loyalty','Consumer Behavior','Live Attendance','Digital Marketing'],
+themes:['Digital Sports Media','Organizational Implications','Streaming and Digital Viewing','Online Fan Communities','Team-Owned Platforms','TikTok','Algorithms and Personalization','Short-Form Video','Sports Fandom','Fan Discovery','Fan Engagement','Participatory Culture','Fan Identity','Parasocial Relationships','Athlete Branding','Brand Loyalty','Consumer Behavior','Live Attendance','Digital Marketing'],
 leagues:['NFL','NBA','MLB','NHL','MLS','WNBA','NWSL','College sports','Premier League','Champions League','Formula 1','UFC','Emerging sports','Athletes']
 };
 

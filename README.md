@@ -37,3 +37,9 @@ The initial quiz is transparent rule-based entertainment. Poll choices and pathw
 ## Integrity
 
 The hero story is autobiography. JG's takes are editable editorial copy, not transcribed quotations. Research placeholders are literal and deliberate. Stadium imagery does not establish attendance trends. Share-alike photo derivatives retain their original licenses; see the Sources view for individual attribution.
+
+## Current research direction
+
+How does digital sports media influence the development of new sports fans from initial discovery to engagement, participation and long-term loyalty?
+
+TikTok remains one platform within the wider ecosystem. The conceptual journey is Discovery → Engagement → Participation → Identity → Loyalty, with detours and no assumed causal progression. Organizational applications remain clearly separated from research findings and JG’s personal perspective. Follow AGENTS.md for future assignment integrations.
