@@ -36,3 +36,11 @@ For each subsequent integration, record:
 - Material not integrated: Exhaustive platform sections, causal claims and new outcome statistics.
 - Reason: This is a scope update, not new empirical evidence or a redesign. Prior state-of-field submission was not yet integrated into this repository; it is not represented as completed research.
 - Permanent workflow: Updated AGENTS.md and README.md to apply the new question to future assignments.
+
+
+## 2026-09-09 — Tape 001: Eden Hazard
+- Source: John’s supplied case-study brief and original Eden Hazard MP4.
+- Extracted: personal player-to-club fandom story and editorial marketing pathway.
+- Updated: Film Room only; native video with unchanged original audio, eight breakdown sections and personal connection. Future shelf preserved.
+- Research claims/citations added: none. Interpretations and recommendations explicitly distinguished from evidence.
+- Not integrated: unverified analytics, causal outcomes or additional case studies, because no supporting evidence was supplied.
