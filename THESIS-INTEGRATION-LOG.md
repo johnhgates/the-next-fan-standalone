@@ -44,3 +44,14 @@ For each subsequent integration, record:
 - Updated: Film Room only; native video with unchanged original audio, eight breakdown sections and personal connection. Future shelf preserved.
 - Research claims/citations added: none. Interpretations and recommendations explicitly distinguished from evidence.
 - Not integrated: unverified analytics, causal outcomes or additional case studies, because no supporting evidence was supplied.
+
+## 2026-09-19 — MLS Instagram player-personality content refocus
+
+- Assignment / source: John's narrowed thesis brief and explicit implementation approval after the inspection/change map.
+- Important material extracted: MLS → player personality → team-owned Instagram content → observable engagement → practical sports marketing application. Research narrowly; apply broadly.
+- Website sections updated: Home, fan journey context, framework, Strategy Builder and downloads, Content Lab, Film Room interpretation, research placeholders, Starting XI, About, thesis, source themes, metadata and footer.
+- New features or visualizations: Platform choice within the existing Strategy Builder and adaptation examples within the existing Content Lab. Existing structures, media, navigation and visual styling preserved. Added one scoped grid containment rule after validation exposed pre-existing mobile overflow in the fan-journey story controls.
+- Research claims added: None. Findings remain empty. Applications and creative concepts remain explicitly provisional. Corrected commenting to engagement; removed loyalty and purchase goals from the strategy tool.
+- Sources/citations added: None; this brief is a direction change, not empirical evidence.
+- Material not integrated: Invented samples, dates, coding rules, findings, new surveys, other-platform empirical claims and causal conversion claims.
+- Reason: Keep the thesis narrow and feasible while demonstrating broader practical strategy. Hazard/Chelsea remains autobiography outside the sample. Current AGENTS.md scope supersedes historical broad-fandom instructions.

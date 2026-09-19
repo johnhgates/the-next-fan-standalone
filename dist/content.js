@@ -1,31 +1,143 @@
 // Editable content collection. Evidence entries remain empty until verified thesis materials are supplied.
 window.NF={
-question:"How does digital sports media influence the development of new sports fans from initial discovery to engagement, participation and long-term loyalty?",
+question:"What engagement patterns are associated with player-personality content on MLS clubs’ Instagram accounts?",
 stages:[
 {name:'Discovery',verb:'Wait. Who is that?',behaviors:['First exposure to an athlete','Discovering a team, league or sport','Finding a rivalry, storyline or sports culture'],description:'The first encounter. A player, a moment or a story gives someone a reason to look closer.',metric:'New viewers, profile visits and discovery sources',risk:'Exposure alone does not demonstrate interest.',take:'You came for one dunk. Forty-five minutes later you’re learning the cap situation.'},
-{name:'Engagement',verb:'Okay, one more video.',behaviors:['Watching and rewatching','Liking, commenting and sharing','Following, searching and watching related content'],description:'Attention becomes an action. The question is whether that action is a passing reaction or the start of a relationship.',metric:'Watch time, repeat viewers, relevant searches and follows',risk:'A like can mean many things. It cannot establish loyalty.',take:'A like is not a blood oath. Your social manager might want it to be. It isn’t.'},
-{name:'Participation',verb:'I have thoughts.',behaviors:['Fan edits, memes and reaction videos','Duets, stitches and trends','Fantasy discussion, debates and fan communities'],description:'People contribute to the story. They make, respond, reinterpret and share with each other.',metric:'Meaningful contributions, repeat contributors and community exchanges',risk:'Participation can be critical, ironic or unrelated to team attachment.',take:'At some point you stop consuming the joke and become part of the joke.'},
+{name:'Engagement',verb:'Okay, one more video.',behaviors:['Viewing where a public count is available','Liking and commenting on the original post','Sharing where the count is publicly available'],description:'Observable interaction with a post: viewing, liking, commenting or sharing. This is the part of the broader journey the study examines.',metric:'Public likes, comments and views where visible; shares only where publicly available. Use consistently available measures and record missing data.',risk:'A like can mean many things. It cannot establish loyalty.',take:'A like is not a blood oath. Your social manager might want it to be. It isn’t.'},
+{name:'Participation',verb:'I have thoughts.',behaviors:['Creating fan content beyond the original post','Joining a community or participating in an activation','Attending an event or making a purchase'],description:'A deeper action beyond interaction with the original post. Participation is context here, not an outcome measured by this study.',metric:'Meaningful contributions, repeat contributors and community exchanges',risk:'Participation can be critical, ironic or unrelated to team attachment.',take:'At some point you stop consuming the joke and become part of the joke.'},
 {name:'Identity',verb:'That’s my team.',behaviors:['Belonging and community','Athlete attachment, traditions and rivalries','Shared language, inside jokes and emotional investment','Merchandise as an expression of identity'],description:'A sports relationship becomes part of how someone sees and expresses themselves.',metric:'Research measures of identification, belonging and attachment',risk:'Athlete identity and team identity may diverge.',take:'This is where they stop being “the Chiefs” and somehow become “we.”'},
 {name:'Loyalty',verb:'Yes, even this season.',behaviors:['Returning across seasons','Watching games and paying for streaming','Merchandise, attendance and advocacy','Staying connected through losses and player departures'],description:'A relationship that lasts. Repeat behavior and sustained attachment matter more than a single spectacular number.',metric:'Longitudinal return behavior, sustained attachment and repeat actions',risk:'Spending depends on access and income. It is not a universal test of fandom.',take:'Going viral is great. Creating a fan is better.'}],
 formats:[
-['Highlights','Discovery','People unfamiliar with an athlete or sport','Lead with a compelling moment and make the context understandable.','Spectacle may not transfer into team interest.','Completion, profile visits and follow-through','A great goal followed by a short explanation of why it mattered.'],
-['Athlete personality','Identity','People interested in a player','Give the athlete room to express a recognizable personality.','Attachment may stay with the player when they move.','Return viewers and athlete-versus-team interest','A player answers a fan question about a matchday ritual.'],
-["Mic’d up",'Engagement','Casual and existing fans','Reveal the conversations viewers usually miss.','Consent, privacy and competitive information require care.','Watch time and relevant comments','A permitted training exchange with enough context to understand it.'],
-['Behind the scenes','Engagement','Curious casual fans','Make routines and overlooked roles visible.','Access can feel staged; protect private moments.','Repeat viewers and follow-through','An equipment manager explains a matchday routine.'],
-['Fan reactions','Participation','Fans looking for shared emotion','Invite interpretations from different fan perspectives.','Avoid humiliation and obtain permission.','Contributions and repeat contributors','Fans describe the same late winner in one sentence.'],
-['Memes','Participation','People familiar with the sport’s culture','Give a shared moment a format people can adapt.','Inside jokes can exclude newcomers or become harassment.','Remixes and meaningful shares','A reusable reaction format after an unexpected result.'],
-['History','Identity','New fans and established supporters','Explain where a tradition came from.','Nostalgia should not gatekeep newer fans.','Saves, questions and return visits','The origin of a supporter tradition, with verified context.'],
-['Nostalgia','Identity','Longstanding fans and curious newcomers','Connect a past moment with the present.','Archives require rights and accurate dates.','Story responses and repeat engagement','Two generations recall a memorable season.'],
-['Rivalries','Engagement','Fans invested in competition','Explain the stakes beyond the score.','Rivalry content can encourage abuse.','Constructive discussion and repeat views','A short, sourced explanation of a derby’s history.'],
-['Educational content','Discovery','People unfamiliar with the sport','Remove one barrier to understanding.','Too much jargon recreates the barrier.','Saves and follow-up questions','Offside explained using one authorized clip.'],
-['Creator collaborations','Discovery','People outside the current fan base','Work with a creator whose audience has a relevant interest.','Audience mismatch and undisclosed sponsorship undermine trust.','Qualified visits and subsequent engagement','A local food creator explores a club’s matchday culture.'],
-['UGC','Participation','Fans who already make content','Invite a specific contribution and credit its creator.','Secure reuse permission and moderate submissions.','Contributors and recurring participation','Supporters share their first-team-memory stories.'],
-['Storytelling','Loyalty','Fans ready for an ongoing relationship','Build a recurring story with a reason to return.','A story arc cannot guarantee durable attachment.','Series return rate and sustained interest','A season-long series about a player’s development.'],
-['Trends','Discovery','People encountering sport through wider culture','Use a relevant format without losing the sports story.','Trend reach can be brief or unrelated to the intended audience.','Audience fit and follow-through','A trend adapted to explain a real training routine.']
+  [
+    "Player interviews",
+    "Comments",
+    "Fans curious about the person",
+    "Ask a specific question that lets the player answer in their own voice.",
+    "A scripted answer can flatten the personality.",
+    "Public comments and likes; views where visible",
+    "Ask a player which teammate they would trust to plan a road trip."
+  ],
+  [
+    "Teammate interactions",
+    "Comments",
+    "Casual and existing fans",
+    "Give an everyday exchange enough context for someone new to understand.",
+    "An inside joke can exclude viewers or embarrass a teammate.",
+    "Public comments, likes and views where visible",
+    "Two teammates explain their very different pre-match playlists."
+  ],
+  [
+    "Mic’d up",
+    "Views and comments",
+    "Fans curious about training",
+    "Let the player’s reactions and conversations carry a short sequence.",
+    "Obtain consent and keep private or competitive information out.",
+    "Public views where visible, likes and comments",
+    "A permitted training exchange with a clear beginning and payoff."
+  ],
+  [
+    "Behind the scenes",
+    "Views and comments",
+    "Fans seeking a closer look",
+    "Show a player’s choices and reactions within an ordinary club routine.",
+    "Access alone does not make content personality-led.",
+    "Public views where visible, likes and comments",
+    "A player narrates the small rituals before leaving for a match."
+  ],
+  [
+    "Humor",
+    "Comments and shares",
+    "Fans who enjoy lighter team content",
+    "Build around a player’s actual sense of humor.",
+    "Forced jokes or ridicule can undermine the idea.",
+    "Public comments and likes; shares only where visible",
+    "A player gives an extremely serious review of the team bus snacks."
+  ],
+  [
+    "Routines",
+    "Comments",
+    "Fans curious about daily habits",
+    "Use a repeatable prompt that players can answer differently.",
+    "Avoid exposing private details or presenting routines as advice.",
+    "Public comments and likes",
+    "Three players explain one harmless matchday superstition."
+  ],
+  [
+    "Travel",
+    "Views and comments",
+    "Fans interested in life around the match",
+    "Let a player describe a small moment from a club trip.",
+    "Protect real-time location details and personal space.",
+    "Public views where visible, likes and comments",
+    "A player’s post-trip recap of who controlled the bus playlist."
+  ],
+  [
+    "Fashion",
+    "Comments",
+    "Fans interested in player interests",
+    "Let the athlete explain a personal style choice in their own words.",
+    "Avoid mocking appearance or assuming fashion fits every player.",
+    "Public comments and likes",
+    "A player talks through one favorite arrival-day outfit."
+  ],
+  [
+    "Hobbies",
+    "Comments",
+    "People who share an athlete’s interests",
+    "Connect a player’s off-field interest to a simple recurring format.",
+    "An interest should be volunteered, not manufactured for content.",
+    "Public comments and likes; views where visible",
+    "A player shares a favorite cooking project and asks fans about theirs."
+  ],
+  [
+    "Celebrations",
+    "Views and comments",
+    "Fans interested in the person behind a moment",
+    "Give the player room to explain the meaning of a celebration.",
+    "A match highlight alone is performance content, not necessarily personality content.",
+    "Public views where visible, likes and comments",
+    "A player explains the teammate joke behind a celebration."
+  ],
+  [
+    "Individual voice",
+    "Comments",
+    "Fans interested in a player’s perspective",
+    "Use a player-led prompt with editorial support and consent.",
+    "Club publishing remains distinct from the player’s personal account.",
+    "Public comments and likes",
+    "A player chooses a question they wish interviews asked more often."
+  ],
+  [
+    "Authentic reactions",
+    "Views and comments",
+    "Casual and existing fans",
+    "Keep enough context to understand an unscripted reaction.",
+    "Do not provoke distress or treat spontaneity as permission to publish.",
+    "Public views where visible, likes and comments",
+    "A player reacts to an old team photo they agreed to discuss."
+  ],
+  [
+    "Personality-led stories",
+    "Views and comments",
+    "Fans following a recurring format",
+    "Build a short story around a player’s interest, choice or relationship.",
+    "A series does not establish repeat viewers or loyalty from public post counts.",
+    "Public engagement on each comparable post",
+    "A recurring player-led tour of favorite local food spots."
+  ],
+  [
+    "Performance + personality",
+    "Views and comments",
+    "Fans interested in both the match and the person",
+    "Pair a sporting moment with the player’s own explanation or reaction.",
+    "Mixed content needs a consistent coding rule; do not assume personality caused the response.",
+    "Comparable public likes, comments and views where visible",
+    "A player explains what a teammate said just before a memorable goal."
+  ]
 ],
 sources:[],cases:[],findings:[],thesis:{abstract:'',literature:'',methodology:'',findings:'',discussion:'',limitations:'',future:'',download:''},
 images:[],
-themes:['Digital Sports Media','Organizational Implications','Streaming and Digital Viewing','Online Fan Communities','Team-Owned Platforms','TikTok','Algorithms and Personalization','Short-Form Video','Sports Fandom','Fan Discovery','Fan Engagement','Participatory Culture','Fan Identity','Parasocial Relationships','Athlete Branding','Brand Loyalty','Consumer Behavior','Live Attendance','Digital Marketing'],
+themes:['MLS','Instagram','Player Personality','Team-Owned Content','Observable Engagement','Content Analysis','Athlete Branding','Sports Marketing','Platform Adaptation','Research Limitations'],
 leagues:['NFL','NBA','MLB','NHL','MLS','WNBA','NWSL','College sports','Premier League','Champions League','Formula 1','UFC','Emerging sports','Athletes']
 };
 
@@ -141,3 +253,13 @@ NF.images = [
     "caption": "Fans watching Ghana–Uruguay at the 2010 World Cup"
   }
 ];
+
+// Practical adaptation concepts, not empirical findings about these platforms.
+NF.platforms = {
+  "Instagram": "Try a Reel or carousel that gives the personality moment enough context. Use the club account as publisher. A collaborative post is an optional execution choice; record it separately if included in research.",
+  "TikTok": "Try a conversational video built around the same player exchange. Let the humor or reaction lead and test an edit that fits the intended audience rather than copying the Instagram version unchanged.",
+  "X": "Try a short clip or player quote with one clear conversation prompt. Keep the exchange understandable without requiring viewers to see the original Instagram post.",
+  "YouTube Shorts": "Try a self-contained short story with a setup, personality moment and payoff. Give a new viewer enough context to understand the player and club.",
+  "Threads": "Try a player quote or candid image with an answerable question. Plan who will respond and keep the player’s meaning intact.",
+  "Other channels": "Keep the player insight and intended response. Adapt the format, context, accessibility and measurement to the audience and channel, including future platforms."
+};

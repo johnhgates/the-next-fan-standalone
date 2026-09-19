@@ -11,3 +11,6 @@
 
 /* Tape 001: scoped media sizing preserves the existing Film Room layout. */
 #hazard-case .film{align-items:start}#hazard-case .film>*{min-width:0}#hazard-case .film-screen{min-height:0;padding:0}#hazard-case video{display:block;width:100%;height:auto;aspect-ratio:3/4;object-fit:contain;background:#000}#hazard-case .film-panel p{overflow-wrap:break-word}
+
+/* Keep the existing scrollable story controls inside the fan-journey grid. */
+.split:has(#story-list)>div{min-width:0}

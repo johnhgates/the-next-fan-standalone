@@ -28,7 +28,7 @@ Every time new changes are committed to the GitHub repository, Render can redepl
 2. Fill `NF.thesis` chapter strings. Replace the disabled download with a link only when the completed thesis file has been supplied.
 3. Replace framework hypotheses only with supported findings and their source identifiers. Update affected strategy, Content Lab and infographic labels together.
 4. Add verified case studies and Film Room posts with clear source links or authorized embeds. Keep third-party scripts out unless embedding is permitted and necessary.
-5. Populate Starting XI principles after the final thesis supports eleven recommendations. Each has a prebuilt detail view for evidence, application, metrics, example and JG's take.
+5. Populate Starting XI principles as the thesis supports recommendations; never force eleven distinct findings. Each has a prebuilt detail view for evidence, application, metrics, example and JG's take.
 6. Add actual dashboard charts only when the data, definitions and limitations are known. Never substitute illustrative percentages for research findings.
 7. Replace John's photo placeholder with his approved portrait. The on-page upload is a session-only preview, not a persistent upload.
 
@@ -40,6 +40,8 @@ The hero story is autobiography. JG's takes are editable editorial copy, not tra
 
 ## Current research direction
 
-How does digital sports media influence the development of new sports fans from initial discovery to engagement, participation and long-term loyalty?
+What engagement patterns are associated with player-personality content on MLS clubs’ Instagram accounts?
 
-TikTok remains one platform within the wider ecosystem. The conceptual journey is Discovery → Engagement → Participation → Identity → Loyalty, with detours and no assumed causal progression. Organizational applications remain clearly separated from research findings and JG’s personal perspective. Follow AGENTS.md for future assignment integrations.
+The empirical scope is MLS, team-owned Instagram content, player personality and observable engagement. The broader fan journey is context only. Participation, identity, purchases and loyalty are not measured outcomes. Public metrics must be available and comparable; missing counts are not zero.
+
+Research narrowly. Apply broadly. The Strategy Builder and Content Lab offer explicitly provisional platform adaptations, not findings. Other sports and platforms remain applications requiring their own evaluation. The Hazard story is personal motivation outside the research sample. Follow the current scope at the top of AGENTS.md for future integrations.

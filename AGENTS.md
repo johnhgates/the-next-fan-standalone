@@ -1,3 +1,26 @@
+CURRENT RESEARCH SCOPE — 2026-09-19
+
+This scope supersedes conflicting research directions and outcome lists in the historical instructions below. Preserve their source-integrity, design-preservation and integration workflow requirements.
+
+Research question: What engagement patterns are associated with player-personality content on MLS clubs’ Instagram accounts?
+
+Study: MLS clubs, team-owned Instagram content, player personality and observable engagement. Keep the empirical project manageable within one year. Do not add other leagues, platforms, private athlete accounts or deeper behavioral outcomes to the study without John's explicit scope change.
+
+Player personality includes voice, humor, interests, routines, teammate interactions and reactions beyond performance. Mere player presence or a highlight is not automatically personality content. Final sampling dates, sample size, coding rules and consistent metrics await the approved methodology; never invent them.
+
+Engagement means viewing, liking, commenting or sharing the original post. Use publicly observable, consistently available metrics. Shares and views are conditional on visibility; missing is not zero. Watch time, retention, saves and reach are not assumed publicly available. Organizations may use their own internal analytics for practical evaluation, clearly outside the thesis dataset.
+
+Participation means deeper actions beyond the original post: creating fan content, joining a community, joining an activation, attending or purchasing. Participation, identity and loyalty are context, not primary research outcomes. The broader five-stage fan journey can remain as context but is not being validated by this thesis. Associations do not demonstrate causation, unique fan counts, purchases or lasting fandom.
+
+Research narrowly. Apply broadly. Translate a verified pattern into interpretation, a testable strategy and platform-specific execution. Separate WHAT THE RESEARCH SAYS, WHAT TO DO WITH IT and JG'S TAKE. Until findings are supplied, label planning tools as application concepts or awaiting findings. Findings describe the sample studied; applications to other sports and platforms are adaptations requiring evaluation, not generalized empirical conclusions. Do not force eleven findings to fill Starting XI.
+
+Preserve the Hazard/Chelsea story and original media as personal motivation outside the MLS Instagram sample. THE NEXT FAN remains an applied master's project demonstrating John's professional sports marketing capabilities and possible future firm direction, not a fake agency homepage. Preserve the site, design, navigation, interactions and humor.
+
+For future coursework integration, classify relevant material by player personality, team-owned Instagram content, observable engagement, interpretation/limitations and practical application. Do not reactivate historical research tasks about loyalty, conversion, personalization or identity. Keep the integration log; never invent findings or citations.
+
+---
+HISTORICAL INSTRUCTIONS — research scope superseded above
+
 THE NEXT FAN — PERMANENT THESIS-TO-WEBSITE INTEGRATION SYSTEM
 
 THE NEXT FAN is the living applied deliverable for my master’s thesis.
