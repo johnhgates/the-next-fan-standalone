@@ -14,3 +14,7 @@
 
 /* Keep the existing scrollable story controls inside the fan-journey grid. */
 .split:has(#story-list)>div{min-width:0}
+
+
+/* Research bibliography reuses the existing editorial layout. */
+.research-group{border-bottom:1px solid var(--line);padding:20px 0}.research-group summary{font-weight:700;cursor:pointer;font-size:18px}.research-group ol{padding-left:24px}.research-group .source-card{padding:12px 0}.research-group p,.plan-cell p{overflow-wrap:anywhere}.research-group summary,.source-card h3{overflow-wrap:break-word}

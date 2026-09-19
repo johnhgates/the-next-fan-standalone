@@ -55,3 +55,13 @@ For each subsequent integration, record:
 - Sources/citations added: None; this brief is a direction change, not empirical evidence.
 - Material not integrated: Invented samples, dates, coding rules, findings, new surveys, other-platform empirical claims and causal conversion claims.
 - Reason: Keep the thesis narrow and feasible while demonstrating broader practical strategy. Hazard/Chelsea remains autobiography outside the sample. Current AGENTS.md scope supersedes historical broad-fandom instructions.
+
+
+
+## 2026-09-19 — Supplied 25-source academic bibliography
+
+Integrated the bibliography supplied in Pasted markdown(4).md. Grouped all 25 references into five themes with DOI links, concise relevance/limitations and publication context. Research & Insights translates five literature themes into actions and test plans. Strategy Builder now includes literature attribution, measurement definitions and client-session decisions in both page output and downloaded plans. Content Lab connects existing categories to athlete self-presentation/brand-image literature and labels specific concepts as John’s strategic interpretations.
+
+Research claims: athlete brand image includes off-field dimensions; publisher/source is relevant to research context; content characteristics are examined alongside distinct engagement metrics; self-brand connection differs from public interaction counts. All remain attributed to literature, not John’s original findings. Sources 7 and 8 were checked against publisher listings and retained as advance online publications. No numerical sample sizes or performance estimates from the supplied summaries were promoted into site claims.
+
+Preserved MLS + team-owned Instagram + player personality + observable engagement scope. Personal Hazard story, video/audio, design, navigation and other interactions retained. Original study findings remain empty. Starting XI is not filled with invented findings. Exact platform tactics, reporting rules and creative prompts are explicitly applications, not tested academic findings. Older work remains conceptual/historical context.
